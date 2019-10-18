@@ -3,7 +3,7 @@ public class AdiosMundo{
 
 
 
-
+			System.out.print("Adios Mundo");
 
 
 	}
